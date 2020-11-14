@@ -1,4 +1,6 @@
 # Music Generation
+## Demo
+[PLAYLIST](https://www.youtube.com/playlist?list=PL8kGuiVdKeKhejC3rLR-t5JVweFHzwE9-)
 
 Music is an art of time. It is formed by the colaboration of instruments -composed with many instruments collectively- harmonization of notes. So, music generation with deep neural networks strictly connected with this features of music. There are many models have been proposed so far for generating music. Some of them based on the structure of Recurrent Neural Networks or Generative Adversarial Networks or Variational Autoencoders.
 
